@@ -268,7 +268,7 @@ ui <- page_navbar(
     nav_spacer(),
     nav_item(tags$a(shiny::icon("github"), 
                     "Source Code", 
-                    href = "https://github.com/swmpkim/WQBelevations/blob/main/app_vegOnly.R", 
+                    href = "https://github.com/swmpkim/vegData_exploration", 
                     target = "_blank")
     )
 ) # end UI
